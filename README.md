@@ -61,7 +61,12 @@ For games, click the game window first so arrow keys go there.
 - After each key, pause in the center briefly before the next flick
 - This mode does **not** move the pointer. Use your mouse as usual
 - Nod is not a key. Start a web game with the space bar by hand
-- Try [Google Snake](https://www.google.com/fbx?fbx=snake_arcade): Arrow keys mode → Start → Recenter → click the game → space to begin → turn your head to steer
+- Click the game window first so arrow keys go there. Then: Arrow keys mode → Start → Recenter → play with your head
+- Games that fit this “flick once, then look center” model:
+  - [Google Snake](https://www.google.com/fbx?fbx=snake_arcade) — easiest start. Space to begin, then turn your head
+  - [Google Pac-Man](https://www.google.com/logos/2010/pacman10-i.html) — same flick-to-turn, in a maze
+  - [2048](https://play2048.co/) — one flick per move, no need for speed
+- Hold-to-steer racing is not supported: EarPose taps a key, it does not hold it down
 
 Head tracking over Bluetooth has a little lag. Casual games work better than frame-perfect ones.
 
